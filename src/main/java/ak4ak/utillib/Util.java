@@ -91,6 +91,9 @@ public class Util {
         }
 
     }
+
+
+
     // Альтернатива: только hex-цвета + стандартные цвета Bukkit'a
     public static String legacyColorize(String text) {
         // Обрабатываем hex-цвета (для версий 1.16+)

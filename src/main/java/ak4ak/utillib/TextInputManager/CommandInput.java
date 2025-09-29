@@ -1,6 +1,6 @@
 package ak4ak.utillib.TextInputManager;
 
-import ak4ak.utillib.Util;
+import ak4ak.utillib.Main.Util;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;

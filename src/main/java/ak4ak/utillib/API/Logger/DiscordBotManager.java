@@ -78,7 +78,6 @@ public class DiscordBotManager {
             plugin.getLogger().info("[Discord] Бот остановлен.");
         }
     }
-
     public JDA getJda() { return jda; }
     public boolean isRunning() { return jda != null && jda.getStatus() == JDA.Status.CONNECTED; }
 }
